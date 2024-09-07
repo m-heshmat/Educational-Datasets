@@ -1,2 +1,2 @@
 # Educational-Datasets
- cleaned and analyzed dataset(beginner level)
+ cleaned and analyzed datasets(beginner level)
