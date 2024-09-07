@@ -1,5 +1,4 @@
 ### FEATURES
-The various features of the cleaned dataset are explained below:
 1) Airline: The name of the airline company is stored in the airline column. It is a categorical feature having 6 different airlines.
 2) Flight: Flight stores information regarding the plane's flight code. It is a categorical feature.
 3) Source City: City from which the flight takes off. It is a categorical feature having 6 unique cities.
@@ -11,3 +10,4 @@ The various features of the cleaned dataset are explained below:
 9) Duration: A continuous feature that displays the overall amount of time it takes to travel between cities in hours.
 10)Days Left: This is a derived characteristic that is calculated by subtracting the trip date by the booking date.
 11) Price: Target variable stores information of the ticket price.
+12) 
